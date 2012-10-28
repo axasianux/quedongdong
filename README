@@ -1,3 +1,10 @@
+Here is a gobject demo
+exercise:
+1. define a interface 
+2. signal
+3. property and its notify
+4. implement of abstract iface
+...
 
 if met the problem of below
     required file `./ltmain.sh' not found
