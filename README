@@ -1,0 +1,5 @@
+
+if met the problem of below
+    required file `./ltmain.sh' not found
+exec the follow command
+    libtoolize --automake --copy --debug --force
